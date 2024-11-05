@@ -29,7 +29,7 @@ The primary objective was to develop a logistic regression model to accurately p
 - **Threshold Selection**: The default 0.5 probability threshold did not yield the best recall-precision balance. Optimal threshold analysis based on ROC-AUC curves enabled better customization of the model to achieve healthcare objectives, allowing flexibility between higher recall or precision based on the clinical goal.
 
 
-## Outcome
+**Outcome**
 The general outcome of the Cardiovascular Disease Prediction project showed that, through data preprocessing, resampling techniques (such as SMOTE), and logistic regression modeling, it was possible to create a predictive model for the 10-year risk of coronary heart disease (CHD) with reasonable accuracy and interoperability. 
 
 The optimal threshold analysis allowed for a more balanced evaluation of precision and recall, tailored to identify higher-risk individuals while minimizing false positives. This model serves as a foundational step in understanding the risk profile of middle-aged adults in the dataset, providing actionable insights that can be further refined for preventive healthcare strategies.
