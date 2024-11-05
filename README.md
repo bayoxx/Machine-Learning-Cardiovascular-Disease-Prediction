@@ -19,7 +19,7 @@ The Cardiovascular Disease Prediction project focuses on developing a predictive
 
 
 
-I have attached the .ipynb file to this repository. I have also attached the report, check [here](https://github.com/TuringCollegeSubmissions/byusuf-PYDA.4.4/blob/main/cardiovascular.pdf)
+I have attached the .ipynb file to this repository. I have also attached the report, check [here](https://github.com/bayoxx/Machine-Learning-Cardiovascular-Disease-Prediction/blob/main/cardiovascular.pdf)
 
 Thank you for your time.
 
