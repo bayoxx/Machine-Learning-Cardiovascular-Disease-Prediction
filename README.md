@@ -19,6 +19,11 @@ The Cardiovascular Disease Prediction project focuses on developing a predictive
 
 
 
+## Outcome
+The general outcome of the Cardiovascular Disease Prediction project showed that, through data preprocessing, resampling techniques (such as SMOTE), and logistic regression modeling, it was possible to create a predictive model for the 10-year risk of coronary heart disease (CHD) with reasonable accuracy and interoperability. 
+
+The optimal threshold analysis allowed for a more balanced evaluation of precision and recall, tailored to identify higher-risk individuals while minimizing false positives. This model serves as a foundational step in understanding the risk profile of middle-aged adults in the dataset, providing actionable insights that can be further refined for preventive healthcare strategies.
+
 I have attached the .ipynb file to this repository. I have also attached the report, check [here](https://github.com/bayoxx/Machine-Learning-Cardiovascular-Disease-Prediction/blob/main/cardiovascular.pdf)
 
 Thank you for your time.
