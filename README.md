@@ -1,5 +1,5 @@
-# Machine Learning
-## Regression: Cardiovascular Disease Prediction
+## Machine Learning
+### Regression: Cardiovascular Disease Prediction
 
 **Description**  
 This project aimed to predict the 10-year risk of coronary heart disease (CHD) using demographic, behavioural, and medical data. Cardiovascular diseases are a leading cause of mortality globally, and early detection is crucial in preventive healthcare. This predictive model targets middle-aged individuals—a critical age group for heart disease risk—to aid in identifying high-risk individuals for timely interventions.
